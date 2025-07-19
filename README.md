@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,js,py,php,mysql&theme=light)](https://skillicons.dev)
 
 ##### Connect with me 
-![https://www.linkedin.com/in/shihabard/](  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![www.linkedin.com/in/0107-shird](  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <img src="https://raw.githubusercontent.com/Shird07/Shird07/output/snake.svg" alt="Snake animation" />
