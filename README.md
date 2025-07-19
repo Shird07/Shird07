@@ -7,7 +7,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,js,py,php,mysql&theme=light)](https://skillicons.dev)
 
 ##### Connect with me 
-[![LinkedIn Profile](https://img.shields.io/badge/Visit_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/0107-shird)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0107-shird)
+
 
 
 
