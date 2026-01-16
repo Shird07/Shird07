@@ -1,13 +1,14 @@
 ## Heyyy, I'm Shi...
 
-###### A fourth-semester informatics engineering student who enjoys exploring technology and learning about backend and web systems. Currently concentrating on developing DevOps, web development, and data management skills. Actively learning, open to collaboration, and passionate about creating impactful digital solutions.
+###### A fifth-semester informatics engineering student who enjoys exploring technology and learning about backend and web systems. Currently concentrating on developing DevOps, web development, and data management skills. Actively learning, open to collaboration, and passionate about creating impactful digital solutions.
 
 
 ##### I code with
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,py,php,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,py,php,mysql,laravel&theme=dark)](https://skillicons.dev)
 
-##### Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0107-shird)
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nama-kamu)
 
 
 
